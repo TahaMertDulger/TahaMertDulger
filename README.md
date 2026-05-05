@@ -18,7 +18,7 @@
 
 ## :technologist: &nbsp;Hakkımda
 
-[cite_start]İstanbul, Kağıthane merkezli, **Bilgisayar Teknolojisi** mezunu bir profesyonelim[cite: 9, 31]. [cite_start]Video kurgu, e-ticaret yönetimi ve teknik servis alanlarında çok yönlü bir deneyime sahibim[cite: 2, 15, 23]. [cite_start]Yabancı dilde kaynakları takip ederek kendimi yapay zeka ve dijital içerik üretimi alanlarında sürekli geliştiriyorum[cite: 43].
+İstanbul, Kağıthane merkezli, **Bilgisayar Teknolojisi** mezunu bir profesyonelim. Video kurgu, e-ticaret yönetimi ve teknik servis alanlarında çok yönlü bir deneyime sahibim. Yabancı dilde kaynakları takip ederek kendimi yapay zeka ve dijital içerik üretimi alanlarında sürekli geliştiriyorum.
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
@@ -29,25 +29,25 @@
     <td width="50%" valign="top">
       <h4>:clapper: Medya & Kurgu</h4>
       <ul>
-        [cite_start]<li><strong>Kaset Medya</strong> — Video Editörü [cite: 2, 3]</li>
-        <li>Reklam ve röportaj çekim/kurgu süreçleri [cite: 4]</li>
+        <li><strong>Kaset Medya</strong> — Video Editörü </li>
+        <li>Reklam ve röportaj çekim/kurgu süreçleri </li>
       </ul>
       <h4>:shopping_cart: E-Ticaret</h4>
       <ul>
-        <li><strong>Snowy Ulu Kardeşler</strong> — E-ticaret Yetkilisi [cite: 15, 16]</li>
-        <li><strong>Tunay.co</strong> — Online Satış Müdürü [cite: 18, 19]</li>
+        <li><strong>Snowy Ulu Kardeşler</strong> — E-ticaret Yetkilisi </li>
+        <li><strong>Tunay.co</strong> — Online Satış Müdürü </li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>:mortar_board: Eğitim</h4>
       <ul>
-        <li><strong>İstinye Üniversitesi</strong> [cite: 30]</li>
-        <li>Bilgisayar Teknolojisi (%50 Başarı Bursu) [cite: 31, 32]</li>
+        <li><strong>İstinye Üniversitesi</strong> </li>
+        <li>Bilgisayar Teknolojisi (%50 Başarı Bursu) </li>
       </ul>
       <h4>:wrench: Teknik Servis</h4>
       <ul>
-        <li><strong>LG Elektronik</strong> — Tekniker [cite: 23, 24]</li>
-        <li><strong>Telkom Teknik</strong> — Tekniker [cite: 27, 28]</li>
+        <li><strong>LG Elektronik</strong> — Tekniker </li>
+        <li><strong>Telkom Teknik</strong> — Tekniker </li>
       </ul>
     </td>
   </tr>
@@ -61,8 +61,8 @@
 
 | &nbsp; | Tarih | Proje Adı | Detay |
 |:------:|:----:|-------|-------|
-| :globe_with_meridians: | **2024** | **E-Ticaret Sitesi** | [cite_start]Web tabanlı satış platformu geliştirme [cite: 40, 41] |
-| :robot: | **2025** | **AI Development** | [cite_start]Yapay zeka araçları ile geliştirme çalışmaları [cite: 43] |
+| :globe_with_meridians: | **2024** | **E-Ticaret Sitesi** | Web tabanlı satış platformu geliştirme  |
+| :robot: | **2025** | **AI Development** | Yapay zeka araçları ile geliştirme çalışmaları  |
 
 </div>
 
@@ -94,8 +94,8 @@
 
 ## :bar_chart: &nbsp;İlgi Alanları
 
-* [cite_start]📚 Yabancı dilde kitap okumak [cite: 43]
-* [cite_start]🎬 Ufak animasyonlar hazırlamak [cite: 43]
-* [cite_start]🤖 Yapay zeka ile projeler geliştirmek [cite: 43]
+* 📚 Yabancı dilde kitap okumak [: 43]
+* 🎬 Ufak animasyonlar hazırlamak [: 43]
+* 🤖 Yapay zeka ile projeler geliştirmek [: 43]
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=120&section=footer)
