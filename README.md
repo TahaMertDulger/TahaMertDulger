@@ -1,89 +1,101 @@
-<!DOCTYPE html>
-<html lang="tr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Taha Mert Dülger | Portfolyo</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-    <style>
-        :root {
-            --bg-color: #0d1117;
-            --accent: #4285F4;
-            --secondary: #6366F1;
-            --text: #e6edf3;
-            --muted: #8b949e;
-            --card: #161b22;
-            --border: #30363d;
-        }
-        * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Inter', sans-serif; }
-        body { background: var(--bg-color); color: var(--text); line-height: 1.6; }
-        .container { max-width: 1100px; margin: 0 auto; padding: 40px 20px; }
-        
-        /* Header */
-        header { text-align: center; padding: 80px 0; background: radial-gradient(circle at top, #1a237e 0%, var(--bg-color) 70%); }
-        h1 { font-size: 3.5rem; margin-bottom: 10px; background: linear-gradient(90deg, #fff, var(--accent)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
-        .subtitle { font-size: 1.2rem; color: var(--muted); letter-spacing: 2px; text-transform: uppercase; }
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=200&section=header&text=Taha%20Mert%20Dülger&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Video%20Editor%20%7C%20E-Commerce%20Specialist%20%7C%20Tech%20Enthusiast&descSize=16&descColor=ffffff&descAlignY=55&animation=fadeIn)
 
-        /* Sections */
-        section { margin-top: 80px; }
-        h2 { font-size: 1.8rem; margin-bottom: 30px; border-left: 4px solid var(--accent); padding-left: 15px; }
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Video+Editing+%26+Post-Production;E-Commerce+Operations+Management;Building+AI-powered+Projects" alt="Typing SVG" /></a>
+</p>
 
-        /* Grid Layout */
-        .main-grid { display: grid; grid-template-columns: 2fr 1fr; gap: 40px; }
+<p align="center">
+  <a href="mailto:t.mert.d1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="tel:+905434124078"><img src="https://img.shields.io/badge/Phone-34B7F1?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
-        /* Timeline */
-        .timeline { position: relative; padding-left: 30px; border-left: 1px solid var(--border); }
-        .timeline-item { margin-bottom: 40px; position: relative; }
-        .timeline-item::before { content: ''; position: absolute; left: -36px; top: 8px; width: 10px; height: 10px; background: var(--accent); border-radius: 50%; box-shadow: 0 0 10px var(--accent); }
-        .date { font-weight: bold; color: var(--accent); font-size: 0.9rem; }
-        .role { font-size: 1.3rem; font-weight: 700; color: #fff; }
-        .company { color: var(--secondary); font-weight: 500; margin-bottom: 8px; }
-        .desc { font-size: 0.95rem; color: var(--muted); }
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TahaMertDulger&style=for-the-badge&color=4285F4&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
-        /* Sidebar Cards */
-        .card { background: var(--card); border: 1px solid var(--border); padding: 25px; border-radius: 12px; margin-bottom: 25px; }
-        .card h3 { margin-bottom: 15px; font-size: 1.1rem; color: var(--accent); }
-        .contact-link { display: flex; align-items: center; gap: 12px; margin-bottom: 12px; color: var(--text); text-decoration: none; font-size: 0.9rem; }
-        .contact-link i { color: var(--accent); width: 20px; }
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
-        /* Skills Tag */
-        .tags { display: flex; wrap: wrap; gap: 8px; }
-        .tag { background: #21262d; border: 1px solid var(--border); padding: 5px 12px; border-radius: 6px; font-size: 0.85rem; }
+## :technologist: &nbsp;Hakkımda
 
-        @media (max-width: 850px) { .main-grid { grid-template-columns: 1fr; } h1 { font-size: 2.5rem; } }
-    </style>
-</head>
-<body>
+[cite_start]İstanbul, Kağıthane merkezli, **Bilgisayar Teknolojisi** mezunu bir profesyonelim[cite: 9, 31]. [cite_start]Video kurgu, e-ticaret yönetimi ve teknik servis alanlarında çok yönlü bir deneyime sahibim[cite: 2, 15, 23]. [cite_start]Yabancı dilde kaynakları takip ederek kendimi yapay zeka ve dijital içerik üretimi alanlarında sürekli geliştiriyorum[cite: 43].
 
-    <header>
-        <h1>Taha Mert Dülger</h1>
-        <div class="subtitle">Video Editörü & E-Ticaret Uzmanı</div>
-    </header>
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
-    <div class="container">
-        <div class="main-grid">
-            
-            <main>
-                <section>
-                    <h2><i class="fas fa-briefcase"></i> İş Deneyimi</h2>
-                    <div class="timeline">
-                        <div class="timeline-item">
-                            <div class="date">Mart 2025 - Eylül 2025</div>
-                            <div class="role">Video Editörü</div>
-                            <div class="company">Kaset Medya</div>
-                            <p class="desc">Reklam, röportaj ve benzeri projeler için kamera çekimi ve kurgu süreçlerinin yürütülmesi.</p>
-                        </div>
-                        <div class="timeline-item">
-                            <div class="date">Mart 2025 - Haziran 2025</div>
-                            <div class="role">E-ticaret Yetkilisi</div>
-                            <div class="company">Snowy Ulu Kardeşler Gıda</div>
-                            <p class="desc">Online satış operasyonlarının yönetimi ve takibi.</p>
-                        </div>
-                        <div class="timeline-item">
-                            <div class="date">Ekim 2024 - Mart 2025</div>
-                            <div class="role">Online Satış Müdürü</div>
-                            <div class="company">Tunay.co</div>
-                            <p class="desc">Online satışların yönetilmesi, ürün durum takibi ve müşteri memnuniyeti süreçleri.</p>
-                        </div>
-                        <div class="timeline-item">
-                            <div class="date">Ağustos 2024 - Eylül 2024</div>
+## :rocket: &nbsp;Deneyim ve Eğitim
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>:clapper: Medya & Kurgu</h4>
+      <ul>
+        [cite_start]<li><strong>Kaset Medya</strong> — Video Editörü [cite: 2, 3]</li>
+        <li>Reklam ve röportaj çekim/kurgu süreçleri [cite: 4]</li>
+      </ul>
+      <h4>:shopping_cart: E-Ticaret</h4>
+      <ul>
+        <li><strong>Snowy Ulu Kardeşler</strong> — E-ticaret Yetkilisi [cite: 15, 16]</li>
+        <li><strong>Tunay.co</strong> — Online Satış Müdürü [cite: 18, 19]</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>:mortar_board: Eğitim</h4>
+      <ul>
+        <li><strong>İstinye Üniversitesi</strong> [cite: 30]</li>
+        <li>Bilgisayar Teknolojisi (%50 Başarı Bursu) [cite: 31, 32]</li>
+      </ul>
+      <h4>:wrench: Teknik Servis</h4>
+      <ul>
+        <li><strong>LG Elektronik</strong> — Tekniker [cite: 23, 24]</li>
+        <li><strong>Telkom Teknik</strong> — Tekniker [cite: 27, 28]</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
+
+## :computer: &nbsp;Projeler
+
+<div align="center">
+
+| &nbsp; | Tarih | Proje Adı | Detay |
+|:------:|:----:|-------|-------|
+| :globe_with_meridians: | **2024** | **E-Ticaret Sitesi** | [cite_start]Web tabanlı satış platformu geliştirme [cite: 40, 41] |
+| :robot: | **2025** | **AI Development** | [cite_start]Yapay zeka araçları ile geliştirme çalışmaları [cite: 43] |
+
+</div>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
+
+## :hammer_and_wrench: &nbsp;Yetenekler & Araçlar
+
+<div align="center">
+
+![Adobe Premiere](https://img.shields.io/badge/Adobe_Premiere-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-CF96FD?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Cinema 4D](https://img.shields.io/badge/Cinema_4D-000000?style=for-the-badge&logo=maxon&logoColor=white)
+![Wordpress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+</div>
+
+## :earth_africa: &nbsp;Diller
+
+<div align="center">
+
+![English](https://img.shields.io/badge/İngilizce-İyi-blue?style=flat-square)
+![Japanese](https://img.shields.io/badge/Japonca-Temel-red?style=flat-square)
+
+</div>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
+
+## :bar_chart: &nbsp;İlgi Alanları
+
+* [cite_start]📚 Yabancı dilde kitap okumak [cite: 43]
+* [cite_start]🎬 Ufak animasyonlar hazırlamak [cite: 43]
+* [cite_start]🤖 Yapay zeka ile projeler geliştirmek [cite: 43]
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=120&section=footer)
